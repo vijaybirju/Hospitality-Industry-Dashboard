@@ -1,4 +1,4 @@
-# Hostpitality-Industry-Dashboard
+# Hospitality-Industry-Dashboard
 
 Hospitality Insights with Power BI:
 
