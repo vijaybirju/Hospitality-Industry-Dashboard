@@ -36,5 +36,5 @@ eg. If the hotel has 100 rooms, 80 customers made a booking, and 70 ended up sta
 
 🟢 Note: Remember there are other metrics too used in Dashboard but their names are self-explanatory.
 
-#freelance #dataanalysis #powerbideveloper #hospitality #hospitalityindustry #datascience
+> Tools used: Power BI and Microsoft Power Point Persentation
 ![image](https://github.com/vijaybirju/Hostpitality-Industry-Dashboard/assets/59472284/fa35d47f-43bb-435d-916e-28776747f615)
